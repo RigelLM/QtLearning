@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtWidgetsApp", "QtWidgetsApp\QtWidgetsApp.vcxproj", "{BB845760-DB5B-4BCA-A74C-A955E6F81016}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtUI", "QtUI\QtUI.vcxproj", "{CA973603-F820-40DD-9876-F876F8C62127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB845760-DB5B-4BCA-A74C-A955E6F81016}.Debug|x64.ActiveCfg = Debug|x64
+		{BB845760-DB5B-4BCA-A74C-A955E6F81016}.Debug|x64.Build.0 = Debug|x64
+		{BB845760-DB5B-4BCA-A74C-A955E6F81016}.Release|x64.ActiveCfg = Release|x64
+		{BB845760-DB5B-4BCA-A74C-A955E6F81016}.Release|x64.Build.0 = Release|x64
+		{CA973603-F820-40DD-9876-F876F8C62127}.Debug|x64.ActiveCfg = Debug|x64
+		{CA973603-F820-40DD-9876-F876F8C62127}.Debug|x64.Build.0 = Debug|x64
+		{CA973603-F820-40DD-9876-F876F8C62127}.Release|x64.ActiveCfg = Release|x64
+		{CA973603-F820-40DD-9876-F876F8C62127}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D5EEE0E-D8A5-4086-A402-080E2E038304}
+	EndGlobalSection
+EndGlobal

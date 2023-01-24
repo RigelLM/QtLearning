@@ -1,0 +1,6 @@
+﻿  Reading Qt configuration (D:/Qt/6.2.2/msvc2019_64/bin/qmake)
+  moc MainWidgets.h
+  MainWidgets.cpp
+  main.cpp
+  moc_MainWidgets.cpp
+  QtWidgetsApp.vcxproj -> C:\Users\Serein\Desktop\C++\QtLearning\x64\Debug\QtWidgetsApp.exe
