@@ -1,0 +1,8 @@
+  “2022/2/4”“21:01:25”: 开始合成“FlightMode”。
+
+  输出到: C:\Users\Serein\Desktop\FlightMode\FlightMode_[#####].png    “2022/2/4”“21:01:27”: 完成的合成“FlightMode”。
+
+
+  已用总时间: 2 秒
+日志在“21:01:27”的“2022/2/4”上关闭
+
